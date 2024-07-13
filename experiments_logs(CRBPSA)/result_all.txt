@@ -1,0 +1,74 @@
+dataset:AGO1
+epoch:20	 | 	max_test_acc: 0.9999 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9997
+dataset:AGO2
+epoch:20	 | 	max_test_acc: 0.9999 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9998
+dataset:AGO3
+epoch:20	 | 	max_test_acc: 1.0000 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 1.0000
+dataset:ALKBH5
+epoch:20	 | 	max_test_acc: 1.0000 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 1.0000
+dataset:AUF1
+epoch:20	 | 	max_test_acc: 0.9991 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9986
+dataset:C17ORF85
+epoch:20	 | 	max_test_acc: 0.9974 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9946
+dataset:C22ORF28
+epoch:19	 | 	max_test_acc: 0.9991 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9991 | 	max_test_recall: 0.9991
+dataset:CAPRIN1
+epoch:20	 | 	max_test_acc: 0.9981 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9961
+dataset:DGCR8
+epoch:14	 | 	max_test_acc: 0.9992 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9985
+dataset:EIF4A3
+epoch:19	 | 	max_test_acc: 0.9996 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9997 | 	max_test_recall: 0.9995
+dataset:EWSR1
+epoch:20	 | 	max_test_acc: 1.0000 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 1.0000
+dataset:FMRP
+epoch:20	 | 	max_test_acc: 0.9992 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9985
+dataset:FOX2
+epoch:20	 | 	max_test_acc: 0.9948 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9889
+dataset:FUS
+epoch:20	 | 	max_test_acc: 0.9992 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9985
+dataset:FXR1
+epoch:20	 | 	max_test_acc: 0.9812 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9611 | 	max_test_recall: 1.0000
+dataset:FXR2
+epoch:20	 | 	max_test_acc: 0.9991 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9983 | 	max_test_recall: 1.0000
+dataset:HNRNPC
+epoch:20	 | 	max_test_acc: 0.9995 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9989
+dataset:HUR
+epoch:20	 | 	max_test_acc: 0.9998 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9995
+dataset:IGF2BP1
+epoch:13	 | 	max_test_acc: 0.9995 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9995 | 	max_test_recall: 0.9995
+dataset:IGF2BP2
+epoch:10	 | 	max_test_acc: 0.9992 	 | 	max_test_auc: 0.9998 | 	max_test_precision: 0.9994 | 	max_test_recall: 0.9990
+dataset:IGF2BP3
+epoch:20	 | 	max_test_acc: 0.9998 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9995
+dataset:LIN28A
+epoch:20	 | 	max_test_acc: 0.9999 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9997
+dataset:LIN28B
+epoch:20	 | 	max_test_acc: 0.9984 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9980 | 	max_test_recall: 0.9987
+dataset:METTL3
+epoch:20	 | 	max_test_acc: 0.9980 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9962
+dataset:MOV10
+epoch:20	 | 	max_test_acc: 1.0000 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 1.0000
+dataset:PTB
+epoch:20	 | 	max_test_acc: 0.9996 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9993
+dataset:PUM2
+epoch:19	 | 	max_test_acc: 0.9978 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9975 | 	max_test_recall: 0.9982
+dataset:QKI
+epoch:20	 | 	max_test_acc: 0.9974 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9940 | 	max_test_recall: 1.0000
+dataset:SFRS1
+epoch:20	 | 	max_test_acc: 0.9982 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9966
+dataset:TAF15
+epoch:19	 | 	max_test_acc: 1.0000 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 1.0000
+dataset:TDP43
+epoch:12	 | 	max_test_acc: 0.9922 	 | 	max_test_auc: 0.9992 | 	max_test_precision: 0.9878 | 	max_test_recall: 0.9975
+dataset:TIA1
+epoch:20	 | 	max_test_acc: 1.0000 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 1.0000
+dataset:TIAL1
+epoch:20	 | 	max_test_acc: 0.9995 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9992
+dataset:TNRC6
+epoch:19	 | 	max_test_acc: 0.9922 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9835
+dataset:U2AF65
+epoch:20	 | 	max_test_acc: 0.9997 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9994 | 	max_test_recall: 1.0000
+dataset:WTAP
+epoch:2	 | 	max_test_acc: 0.9609 	 | 	max_test_auc: 0.9995 | 	max_test_precision: 1.0000 | 	max_test_recall: 0.9171
+dataset:ZC3H7B
+epoch:20	 | 	max_test_acc: 0.9998 	 | 	max_test_auc: 1.0000 | 	max_test_precision: 0.9996 | 	max_test_recall: 1.0000

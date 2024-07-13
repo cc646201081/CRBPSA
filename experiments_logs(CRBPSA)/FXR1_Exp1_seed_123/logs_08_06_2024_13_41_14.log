@@ -1,0 +1,89 @@
+=============================================
+Dataset: FXR1
+Method:  CRBPSA
+=============================================
+Data loaded ...
+Training and Testing started ....
+
+Epoch : 1
+Train Loss : 0.3468	 | 	 Accuracy : 0.8261 | 	 AUC : 0.9202 | 	 Precision : 0.8872 | 	 Recall : 0.8097
+Test Loss : 0.0110	 | 	 Accuracy : 0.9969 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 0.9944
+
+Epoch : 2
+Train Loss : 0.1332	 | 	 Accuracy : 0.9287 | 	 AUC : 0.9892 | 	 Precision : 0.9951 | 	 Recall : 0.8664
+Test Loss : 0.0432	 | 	 Accuracy : 0.9844 | 	 AUC : 0.9998 | 	 Precision : 0.9716 | 	 Recall : 0.9933
+
+Epoch : 3
+Train Loss : 0.1237	 | 	 Accuracy : 0.9361 | 	 AUC : 0.9893 | 	 Precision : 0.9881 | 	 Recall : 0.8839
+Test Loss : 0.0049	 | 	 Accuracy : 1.0000 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 1.0000
+
+Epoch : 4
+Train Loss : 0.0966	 | 	 Accuracy : 0.9321 | 	 AUC : 0.9914 | 	 Precision : 0.9971 | 	 Recall : 0.8701
+Test Loss : 0.0324	 | 	 Accuracy : 0.9938 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 0.9859
+
+Epoch : 5
+Train Loss : 0.0820	 | 	 Accuracy : 0.9395 | 	 AUC : 0.9929 | 	 Precision : 1.0000 | 	 Recall : 0.8794
+Test Loss : 0.0173	 | 	 Accuracy : 0.9969 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 0.9913
+
+Epoch : 6
+Train Loss : 0.0827	 | 	 Accuracy : 0.9484 | 	 AUC : 0.9928 | 	 Precision : 1.0000 | 	 Recall : 0.8960
+Test Loss : 0.0161	 | 	 Accuracy : 0.9969 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 0.9926
+
+Epoch : 7
+Train Loss : 0.0823	 | 	 Accuracy : 0.9436 | 	 AUC : 0.9932 | 	 Precision : 1.0000 | 	 Recall : 0.8943
+Test Loss : 0.0178	 | 	 Accuracy : 0.9938 | 	 AUC : 1.0000 | 	 Precision : 0.9938 | 	 Recall : 0.9933
+
+Epoch : 8
+Train Loss : 0.0884	 | 	 Accuracy : 0.9361 | 	 AUC : 0.9914 | 	 Precision : 1.0000 | 	 Recall : 0.8741
+Test Loss : 0.0186	 | 	 Accuracy : 0.9969 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 0.9931
+
+Epoch : 9
+Train Loss : 0.0924	 | 	 Accuracy : 0.9334 | 	 AUC : 0.9917 | 	 Precision : 1.0000 | 	 Recall : 0.8693
+Test Loss : 0.0002	 | 	 Accuracy : 1.0000 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 1.0000
+
+Epoch : 10
+Train Loss : 0.0937	 | 	 Accuracy : 0.9361 | 	 AUC : 0.9915 | 	 Precision : 1.0000 | 	 Recall : 0.8755
+Test Loss : 0.0195	 | 	 Accuracy : 0.9938 | 	 AUC : 0.9998 | 	 Precision : 0.9873 | 	 Recall : 1.0000
+
+Epoch : 11
+Train Loss : 0.0844	 | 	 Accuracy : 0.9395 | 	 AUC : 0.9923 | 	 Precision : 1.0000 | 	 Recall : 0.8797
+Test Loss : 0.0021	 | 	 Accuracy : 1.0000 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 1.0000
+
+Epoch : 12
+Train Loss : 0.0853	 | 	 Accuracy : 0.9484 | 	 AUC : 0.9923 | 	 Precision : 1.0000 | 	 Recall : 0.8950
+Test Loss : 0.0081	 | 	 Accuracy : 0.9938 | 	 AUC : 0.9998 | 	 Precision : 0.9935 | 	 Recall : 0.9935
+
+Epoch : 13
+Train Loss : 0.0925	 | 	 Accuracy : 0.9239 | 	 AUC : 0.9910 | 	 Precision : 1.0000 | 	 Recall : 0.8498
+Test Loss : 0.0104	 | 	 Accuracy : 0.9938 | 	 AUC : 1.0000 | 	 Precision : 0.9941 | 	 Recall : 0.9933
+
+Epoch : 14
+Train Loss : 0.0867	 | 	 Accuracy : 0.9416 | 	 AUC : 0.9928 | 	 Precision : 1.0000 | 	 Recall : 0.8869
+Test Loss : 0.0125	 | 	 Accuracy : 0.9938 | 	 AUC : 1.0000 | 	 Precision : 0.9923 | 	 Recall : 0.9938
+
+Epoch : 15
+Train Loss : 0.0888	 | 	 Accuracy : 0.9389 | 	 AUC : 0.9929 | 	 Precision : 0.9987 | 	 Recall : 0.8819
+Test Loss : 0.0237	 | 	 Accuracy : 0.9938 | 	 AUC : 0.9998 | 	 Precision : 0.9857 | 	 Recall : 1.0000
+
+Epoch : 16
+Train Loss : 0.0899	 | 	 Accuracy : 0.9409 | 	 AUC : 0.9919 | 	 Precision : 1.0000 | 	 Recall : 0.8834
+Test Loss : 0.0124	 | 	 Accuracy : 0.9969 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 0.9933
+
+Epoch : 17
+Train Loss : 0.0854	 | 	 Accuracy : 0.9457 | 	 AUC : 0.9927 | 	 Precision : 1.0000 | 	 Recall : 0.8925
+Test Loss : 0.0649	 | 	 Accuracy : 0.9938 | 	 AUC : 0.9990 | 	 Precision : 0.9935 | 	 Recall : 0.9935
+
+Epoch : 18
+Train Loss : 0.0823	 | 	 Accuracy : 0.9409 | 	 AUC : 0.9933 | 	 Precision : 1.0000 | 	 Recall : 0.8861
+Test Loss : 0.0490	 | 	 Accuracy : 0.9938 | 	 AUC : 1.0000 | 	 Precision : 1.0000 | 	 Recall : 0.9867
+
+Epoch : 19
+Train Loss : 0.2778	 | 	 Accuracy : 0.8981 | 	 AUC : 0.9882 | 	 Precision : 0.9710 | 	 Recall : 0.8466
+Test Loss : 0.3684	 | 	 Accuracy : 0.9437 | 	 AUC : 0.9992 | 	 Precision : 1.0000 | 	 Recall : 0.8783
+
+Epoch : 20
+Train Loss : 0.3935	 | 	 Accuracy : 0.8927 | 	 AUC : 0.9744 | 	 Precision : 0.9465 | 	 Recall : 0.8423
+Test Loss : 0.0185	 | 	 Accuracy : 0.9812 | 	 AUC : 1.0000 | 	 Precision : 0.9611 | 	 Recall : 1.0000
+
+################## Training and Testing is Done! #########################
+runing time is : 0:00:09.742360
